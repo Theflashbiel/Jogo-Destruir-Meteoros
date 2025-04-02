@@ -1,0 +1,12 @@
+					
+
+					1 ->  Iniciar o Jogo
+					2 ->  Ver musicas
+					3 ->  Abrir ajuda 
+					4 ->  Sair do jogo
+					P ->  Comeca o jogo 
+					ESC -> Pausa o jogo
+					KEY_UP -> Move para cima
+					KEY_DOWN -> Move para baixo
+					KEY_LEFT -> Move para esquerda
+					KEY_RIGHT -> Move para direita
